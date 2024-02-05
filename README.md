@@ -17,5 +17,5 @@
 ### 📱 My Devices
 
 #### Phones / Pad
-[![Pixel 5](https://img.shields.io/badge/Pixel%205-268575?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=000000)](https://www.gsmarena.com/google_pixel_5-10386.php)
-[![iPad Air 2](https://img.shields.io/badge/iPad%20Air%202-855426?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://www.gsmarena.com/apple_ipad_air_2-6742.php)
+[![Pixel 5](https://img.shields.io/badge/Poco%20X6%205G-FF5733?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF5733)](https://www.gsmarena.com/xiaomi_poco_x6-12723.php)
+[![iPad Air 2](https://img.shields.io/badge/iPad%20Air%202-5B5B5B?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=5B5B5B)](https://www.gsmarena.com/apple_ipad_air_2-6742.php)
